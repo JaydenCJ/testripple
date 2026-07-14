@@ -2,7 +2,7 @@
   "name": "testripple",
   "version": "0.1.0",
   "description": "Computes which tests a git diff can affect via static import-graph analysis.",
-  "author": "JaydenCJ",
+  "author": "JaydenCJ <aisingioro.kiyon@gmail.com>",
   "license": "MIT",
   "type": "module",
   "bin": {
